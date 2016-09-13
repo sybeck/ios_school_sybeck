@@ -6,8 +6,8 @@
   
 ### Foldering Structure  
 * ios_school_sybeck (root)  
-  * class *- for source code written in class  
-  * homework *- for homework assigned in class  
+  * class *- for source code written in class*  
+  * homework *- for homework assigned in class*  
     
     
 #### To be updated soon.
