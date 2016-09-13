@@ -1,6 +1,7 @@
+### Introduce  
 *Hello.*  
 *This is Seoung Eyup Beck, and this is my project repository.*  
-*Any question would be welcome. Just e-mail via bsysy17@gmail.com.*  
+*Any question would be welcomed, Just e-mail via bsysy17@gmail.com*  
 *Thx*  
   
   
